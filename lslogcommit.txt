@@ -1,0 +1,5 @@
+Script started on Wed 08 May 2013 02:06:10 PM UTC
+ERROR:gitosis.serve.main:Repository read access denied
+fatal: The remote end hung up unexpectedly
+
+Script done on Wed 08 May 2013 02:06:10 PM UTC
