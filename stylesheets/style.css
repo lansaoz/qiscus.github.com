@@ -18,7 +18,7 @@ body {
 
 .page-header a {
   position: absolute;
-  right: 25%;
+  right: 20%;
   top: 5%;
 }
 
@@ -34,6 +34,10 @@ body {
 /* h2 & h3 */ 
 h2 {
   font-size: 16px;
+}
+
+.motto {
+  text-align: center;
 }
 
 h3 {
@@ -54,7 +58,7 @@ h3 img {
 
 .container {
   width: auto;
-  max-width: 680px;
+  max-width: 960px;
 }
 .container .credit {
   margin: 20px 0;
